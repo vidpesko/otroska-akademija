@@ -2,6 +2,22 @@
 # NOVO: kritični udarec, omejeno število napojev, opozorilo pri napačnem vnosu,
 #       življenja ne morejo preseči 100.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import random
 
 igralec = 100

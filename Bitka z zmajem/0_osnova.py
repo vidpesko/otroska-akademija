@@ -24,11 +24,6 @@
 import random
 
 
-stevilo = random.randint(1, 2)
-
-
-
-
 igralec = 100      # tvoja življenja
 zmaj = 100         # zmajeva življenja
 

@@ -2,38 +2,6 @@
 # NOVO: več pošasti zapored (seznami + zanka for), zlato za vsako zmago,
 #       trgovina med bitkami (meč in napoji).
 
-
-
-napoj = 5
-
-
-while:
-
-    if izbira = ZDRAVLJENJE:
-        if napoj > 0:
-            napoj = napoj - 1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 import random
 
 # NOVO: seznami — na istem mestu (indeksu) so podatki iste pošasti

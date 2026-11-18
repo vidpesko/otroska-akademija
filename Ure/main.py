@@ -1,17 +1,10 @@
-starosti = [10, 9, 12]
-visina = 180
-
-starost = 0
+prva_stevilka = input("Vnesi prvo število: ")
+druga_stevilka = input("Vnesi drugo število: ")
 
 
-while True:
+vsota = int(prva_stevilka) + int(druga_stevilka)
 
-    starost = input("Vnesi številko:")
+print("Vsota je:", vsota)
 
-    if starost < 18:
-        print("Ni vstopa")
 
-    if starost > 18:
-        continue
-
-    print("Vaša številka je bila:", številka)
+# "Živjo," + "moje ime je Vid" => "Živjo, moje ime je Vid"
